@@ -32,20 +32,12 @@
         android:visibility="invisible"
         android:id="@+id/register">
 
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:padding="10dp"
-            android:layout_margin="15dp"
-            android:textSize="22dp"
-            android:hint="Enter Team Name"
-            android:id="@+id/teamName"/>
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:padding="10dp"
-            android:layout_margin="15dp"
+            android:layout_margin="20dp"
             android:textSize="22dp"
             android:hint="Enter Team ID"
             android:inputType="number"
